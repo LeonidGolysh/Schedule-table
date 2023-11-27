@@ -1,0 +1,49 @@
+.App {
+  /* text-align: center; */
+  color: #333;
+}
+
+.table{
+  border-collapse: collapse;
+  border: 1px solid black;
+  width: 600px;
+  margin: auto;
+  margin-top: 20px;
+  text-align: center;
+}
+
+.time-table {
+  width: 150px;
+}
+
+td {
+  border: 1px solid black;
+}
+
+.dropdown {
+  border: 1px solid black;
+  border-radius: 6px;
+  width: 110px;
+}
+
+.dropdown-header {
+  text-align: center;
+}
+
+.weekday-select {
+  width: 150px;
+}
+
+.dropdown-list {
+  list-style-type: none;
+  text-align: left;
+}
+
+.header-dropdown {
+  /* border: 1px solid red; */
+  width: 500px;
+  margin: auto;
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-between;
+}
